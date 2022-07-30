@@ -1,3 +1,9 @@
+const navigation = document.getElementById("navigation");
+const home = document.getElementById("home");
+const services = document.getElementById("services");
+const contact = document.getElementById("contact");
+const about = document.getElementById("about");
+
 window.addEventListener("scroll", onScroll);
 
 onScroll();
